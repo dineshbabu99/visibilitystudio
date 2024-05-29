@@ -1,2 +1,0 @@
-# visibilitystudio
-visibility studio
